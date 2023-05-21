@@ -2,6 +2,8 @@
 c++ ile if-else mantığını kavramak için Yazılmıs basit islem yapma.
 
 => zyrasoftware.com.tr
+
+
 => https://www.instagram.com/zyrasoftware/
 
 # Nedir ?
