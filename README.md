@@ -1,7 +1,7 @@
 # cpp-if-else-ogretici
 c++ ile if-else mantığını kavramak için Yazılmıs basit islem yapma.
 
->> zyrasoftware.com.tr
+=> zyrasoftware.com.tr
 => https://www.instagram.com/zyrasoftware/
 
 # Nedir ?
